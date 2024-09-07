@@ -1,4 +1,4 @@
-# Kaggle competition Storage
+# Kaggle competition Portfolio
 
 This is my Kaggle Competitions Portfolio repository! This repository contains my submissions and solutions for various Kaggle competitions that I have participated in. Below, you will find an overview of the competitions and links to their respective folders for detailed code.
 
