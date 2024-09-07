@@ -4,4 +4,5 @@ This is my Kaggle Competitions Portfolio repository! This repository contains my
 
 ## Competitions
 
-1. [Bike Sharing Demand](https://github.com/Bonniecoleman/Kaggle_competition/tree/main/Bike%20Sharing%20Demand)
+[Competition 1: Bike Sharing Demand](https://github.com/Bonniecoleman/Kaggle_competition/tree/main/Bike%20Sharing%20Demand)
+* ㅇㅇㅇ
