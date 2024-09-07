@@ -10,4 +10,4 @@ This is my Kaggle Competitions Portfolio repository! This repository contains my
 * Submission model: Random forest regression 
 * Evalution metrics: Root Mean Squared Logarithmic Error (RMSLE)
 * Score: 0.39567
-* Rank: Supposed to be around 200th (which is the 94th percentile) out of 3243 (since this is an old competition, I wouldn't be able to enter the rank)
+* Rank: Supposed to be around 200th rank (which is the 94th percentile) out of 3243 (since this is an old competition, I wouldn't be able to enter the rank)
