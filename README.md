@@ -18,4 +18,4 @@ This is my Kaggle Competitions Portfolio repository! This repository contains my
 * Evaluation metrics: Receiver Operating Characteristic Area Under the Curve (ROC-AUC)
 * Private Score: 0.80282
 * Public Score: 0.80845
-* Rank: The 2nd place
+* Rank: The 2nd place
