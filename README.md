@@ -10,7 +10,6 @@ This is my Kaggle Competitions Portfolio repository! This repository contains my
 * Submission model: Random forest regression 
 * Evaluation metrics: Root Mean Squared Logarithmic Error (RMSLE)
 * Private/Public Score: 0.39567
-* Rank: Supposed to be around 200th rank (which is the 94th percentile) out of 3243 (since this is an old competition, I wouldn't be able to enter the rank)
 
 [Competition 2: Categorical Feature Encoding Challenge](https://github.com/Bonniecoleman/Kaggle_competition/tree/main/Categorical%20Feature%20Encoding%20Challenge)
 * Mission: Predicting the probability of belonging to target value 1 using various categorical data
@@ -18,4 +17,3 @@ This is my Kaggle Competitions Portfolio repository! This repository contains my
 * Evaluation metrics: Receiver Operating Characteristic Area Under the Curve (ROC-AUC)
 * Private Score: 0.80282
 * Public Score: 0.80845
-* Rank: The 2nd place
