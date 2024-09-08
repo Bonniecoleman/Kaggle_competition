@@ -8,6 +8,15 @@ This is my Kaggle Competitions Portfolio repository! This repository contains my
 * Mission: Using Weather, Season, Wokring, Temperture, Windspeed features to predict bike sharing demand
 * Baseline model: Linear regression
 * Submission model: Random forest regression 
-* Evalution metrics: Root Mean Squared Logarithmic Error (RMSLE)
+* Evaluation metrics: Root Mean Squared Logarithmic Error (RMSLE)
 * Score: 0.39567
 * Rank: Supposed to be around 200th rank (which is the 94th percentile) out of 3243 (since this is an old competition, I wouldn't be able to enter the rank)
+
+[Competition 2: Categorical Feature Encoding Challenge]
+(https://github.com/Bonniecoleman/Kaggle_competition/tree/main/Categorical%20Feature%20Encoding%20Challenge)
+* Mission: Predicting the probability of belonging to target value 1 using various categorical data
+* Baseline/Submssion model: Logistic Regression
+* Evaluation metrics: Receiver Operating Characteristic Area Under the Curve (ROC-AUC)
+* Private Score: 0.80282
+* Public Score: 0.80845
+* Rank: The 2nd place
