@@ -19,6 +19,6 @@ This is my Kaggle Competitions Portfolio repository! This repository contains my
 
 [Competition 3: Predict Future Sales](https://github.com/Bonniecoleman/Kaggle_competition/tree/main/Predict%20Future%20Sales)
 * Mission: Predicting a total sales on Nov 2015 based on the historical sales data from Jan 2013 to Oct 2015. 
-* Submission model: LightGBM
+* Baseline/Submission model: LightGBM
 * Evaluation metrices: Root Mean Squared Error (RMSE)
 * Private Score: 
