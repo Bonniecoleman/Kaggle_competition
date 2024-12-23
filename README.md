@@ -15,7 +15,7 @@ This is my Kaggle Competitions Portfolio repository! This repository contains my
 * Mission: Predicting the probability of belonging to target value 1 using 23 categorical data
 * Baseline/Submssion model: Logistic Regression
 * Evaluation metrics: Receiver Operating Characteristic Area Under the Curve (ROC-AUC)
-* Private Score: 0.80282
+* Private Score: 0.80061
 
 [Competition 3: Predict Future Sales](https://github.com/Bonniecoleman/Kaggle_competition/tree/main/Predict%20Future%20Sales)
 * Mission: Predicting a total sales on Nov 2015 based on the historical sales data from Jan 2013 to Oct 2015. 
