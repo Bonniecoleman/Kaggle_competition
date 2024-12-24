@@ -11,7 +11,7 @@ This is my Kaggle Competitions Portfolio repository! This repository contains my
 * Evaluation metrics: Root Mean Squared Logarithmic Error (RMSLE)
 * Private Score: 0.39567
 
-[Competition 2: Categorical Feature Encoding Challenge](https://github.com/Bonniecoleman/Kaggle_competition/tree/main/Categorical%20Feature%20Encoding%20Challenge)
+[Competition 2: Categorical Feature Encoding Challenge](https://www.kaggle.com/code/beomseongkim/logistic-regression?scriptVersionId=214535063)
 * Mission: Predicting the probability of belonging to target value 1 using 23 categorical data
 * Baseline/Submssion model: Logistic Regression
 * Evaluation metrics: Receiver Operating Characteristic Area Under the Curve (ROC-AUC)
