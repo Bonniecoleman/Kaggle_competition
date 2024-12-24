@@ -4,7 +4,7 @@ This is my Kaggle Competitions Portfolio repository! This repository contains my
 
 ## Competitions
 
-[Competition 1: Bike Sharing Demand Prediction](https://github.com/Bonniecoleman/Kaggle_competition/tree/main/Bike%20Sharing%20Demand)
+[Competition 1: Bike Sharing Demand Prediction](https://www.kaggle.com/code/beomseongkim/random-forest-regression)
 * Mission: Using Weather, Season, Wokring, Temperture, Windspeed features to predict bike sharing demand
 * Baseline model: Linear regression
 * Submission model: Random forest regression 
