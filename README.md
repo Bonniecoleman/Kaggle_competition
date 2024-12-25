@@ -21,4 +21,4 @@ This is my Kaggle Competitions Portfolio repository! This repository contains my
 * Mission: Predict the probability of the presence of a cactus in aerial images.
 * Baseline/Submission Model: Convolutional Neural Network (CNN)
 * Evaluation Metrics: Receiver Operating Characteristic Area Under the Curve (ROC-AUC)
-* Private Score: 
+* Private Score: 0.9998
