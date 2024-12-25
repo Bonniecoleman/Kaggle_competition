@@ -17,7 +17,7 @@ This is my Kaggle Competitions Portfolio repository! This repository contains my
 * Evaluation metrics: Receiver Operating Characteristic Area Under the Curve (ROC-AUC)
 * Private Score: 0.80761 (Second submssion)
 
-[Competition 3: Aerial Cactus Identification](https://github.com/Bonniecoleman/Kaggle_competition/tree/main/Aerial%20Cactus%20Identification)
+[Competition 3: Aerial Cactus Identification](https://www.kaggle.com/code/beomseongkim/cnn-model-improved-version/notebook)
 * Mission: Predict the probability of the presence of a cactus in aerial images.
 * Baseline/Submission Model: Convolutional Neural Network (CNN)
 * Evaluation Metrics: Receiver Operating Characteristic Area Under the Curve (ROC-AUC)
