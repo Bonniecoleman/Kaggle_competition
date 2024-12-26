@@ -9,16 +9,22 @@ This is my Kaggle Competitions Portfolio repository! This repository contains my
 * Baseline model: Linear regression
 * Submission model: Random forest regression 
 * Evaluation metrics: Root Mean Squared Logarithmic Error (RMSLE)
-* Private Score: 0.39567
+* Private Leaderboard Score: 0.39567
 
 [Competition 2: Categorical Feature Encoding Challenge](https://www.kaggle.com/code/beomseongkim/logistic-regression?scriptVersionId=214535063)
 * Mission: Predicting the probability of belonging to target value 1 using 23 categorical data
 * Baseline/Submssion model: Logistic Regression
 * Evaluation metrics: Receiver Operating Characteristic Area Under the Curve (ROC-AUC)
-* Private Score: 0.80761 (Second submssion)
+* Private Leaderboard Score: 0.80761 (Second submssion)
 
 [Competition 3: Aerial Cactus Identification](https://www.kaggle.com/code/beomseongkim/cnn-model-improved-version/notebook)
 * Mission: Predict the probability of the presence of a cactus in aerial images.
 * Baseline/Submission Model: Convolutional Neural Network (CNN)
 * Evaluation Metrics: Receiver Operating Characteristic Area Under the Curve (ROC-AUC)
-* Private Score: 0.9998
+* Private Leaderboard Score: 0.9998
+
+[Competition 4: Predict Future Sales](
+* Mission:
+* Baseline/Submission Model:
+* Evaluation Metrics:
+* Private Leaderboard Score: 
