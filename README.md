@@ -23,9 +23,9 @@ This is my Kaggle Competitions Portfolio repository! This repository contains my
 * Evaluation Metrics: Receiver Operating Characteristic Area Under the Curve (ROC-AUC)
 * Private Leaderboard Score: 0.9998
 
-[Competition 4: Predict Future Sales](https://www.kaggle.com/code/beomseongkim/lightgbm-1-24966)
+[Competition 4: Predict Future Sales](https://www.kaggle.com/code/beomseongkim/lightgbm-0-87442)
 * Mission: Predict total sales for November 2015 based on daily sales data from January 2013 to October 2015.
 * Baseline/Submission Model: LightGBM
 * Evaluation Metrics: Root Mean Squared Error (RMSE)
-* Public Leaderboard Score: 1.24966
+* Public Leaderboard Score: 0.87442 (top 10.2%)
 
