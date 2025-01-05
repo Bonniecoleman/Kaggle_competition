@@ -29,3 +29,8 @@ This is my Kaggle Competitions Portfolio repository! This repository contains my
 * Evaluation Metrics: Root Mean Squared Error (RMSE)
 * Public Leaderboard Score: 0.87442 (top 10.2%)
 
+[Competition 5: Porto Driver's Safe Driver Prediction]()
+* Mission: Predicting the Probability of Insurance Claims by Drivers Using Customer Data Provided by Porto Seguro Insurance
+* Baseline/Submission Model: Ensemble of LightGBM and XGBoost
+* Evaluation Metrics: Normalized Gini Coefficient
+* Public Leaderboard Score: 0.28539
