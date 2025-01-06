@@ -31,6 +31,6 @@ This is my Kaggle Competitions Portfolio repository! This repository contains my
 
 [Competition 5: Porto Driver's Safe Driver Prediction]()
 * Mission: Predicting the Probability of Insurance Claims by Drivers Using Customer Data Provided by Porto Seguro Insurance
-* Baseline/Submission Model: Ensemble of LightGBM and XGBoost
+* Baseline/Submission Model: LightGBM
 * Evaluation Metrics: Normalized Gini Coefficient
-* Public Leaderboard Score: 0.28539
+* Private Leaderboard Score: 0.28539 -> 0.29158 
